@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SeeSpotRun</string>
+    <string name="sensor_data_string">There are %d sensor devices installed.</string>
 </resources>
